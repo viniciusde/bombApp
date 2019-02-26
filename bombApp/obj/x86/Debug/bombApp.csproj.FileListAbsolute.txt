@@ -1,0 +1,4 @@
+c:\users\vinicius\documents\visual studio 2010\Projects\bombApp\bombApp\bin\Debug\bombApp.exe
+c:\users\vinicius\documents\visual studio 2010\Projects\bombApp\bombApp\bin\Debug\bombApp.pdb
+c:\users\vinicius\documents\visual studio 2010\Projects\bombApp\bombApp\obj\x86\Debug\bombApp.exe
+c:\users\vinicius\documents\visual studio 2010\Projects\bombApp\bombApp\obj\x86\Debug\bombApp.pdb
